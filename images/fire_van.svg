@@ -1,0 +1,91 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg" width="156.796" height="78.993" viewBox="0 0 156.796 78.993">
+	<defs>
+		<style>.a{fill:#ffb300;}.b{fill:#949394;}.c{fill:#c1c1c0;}.d{fill:#e60019;}.e{fill:#ab0b1b;}.f{fill:#6d0911;}.g{fill:#c4c4c3;stroke:#1a1818;stroke-width:4.48px;}.g,.h,.i{stroke-miterlimit:10;}.h,.p{fill:none;}.h{stroke:#8c8c8c;}.i,.l{fill:#fff;}.i{stroke:#96999c;stroke-width:2px;}.j{fill:#96999c;}.k{fill:#ffab00;}.m{fill:#88d4ee;}.n{fill:#30bff4;}.o{stroke:none;}
+		.rotate_tire{
+            animation: tire 5s linear infinite reverse;
+            transform-origin: 50% 50%;
+            transform-box:fill-box;
+		}
+        @keyframes tire {
+            0%{
+	    		transform: rotate(0deg);
+            }
+            100%{
+               transform: rotate(360deg);
+            }
+        }
+		</style>
+	</defs>
+	<g transform="translate(-531.747 -270.921)">
+		<path class="a" d="M573.383,275.557a4.635,4.635,0,1,0-9.271,0V282.6h9.271Z"/>
+		<rect class="b" width="23.454" height="8.812" transform="translate(636.543 286.854)"/>
+		<rect class="c" width="101" height="3.75" transform="translate(576.917 275.353) rotate(7.358)"/>
+		<path class="d" d="M534.5,337.557H598V280.192H554.5l-20,35.582Z"/>
+		<rect class="e" width="87.128" height="43.569" transform="translate(597.997 293.987)"/>
+		<rect class="f" width="73" height="4.833" transform="translate(603.997 302.378)"/>
+		<rect class="f" width="73" height="4.833" transform="translate(603.997 319.437)"/>
+		<rect class="f" width="3" height="16.812" transform="translate(610.247 304.794)"/>
+		<rect class="f" width="3" height="16.812" transform="translate(623.997 304.794)"/>
+		<rect class="f" width="3" height="16.812" transform="translate(637.747 304.794)"/>
+		<rect class="f" width="3" height="16.812" transform="translate(651.497 304.794)"/>
+		<rect class="f" width="3" height="16.812" transform="translate(665.247 304.794)"/>
+		<g class="rotate_tire">
+			<g class="g" transform="translate(611.829 325.2)">
+				<circle class="o" cx="12.357" cy="12.357" r="12.357"/>
+				<circle class="p" cx="12.357" cy="12.357" r="10.117"/>
+			</g>
+			<line class="h" y2="15.5" transform="translate(624.186 329.807)"/>
+			<line class="h" x2="10.96" y2="10.96" transform="translate(618.706 332.077)"/>
+			<line class="h" x2="15.5" transform="translate(616.436 337.557)"/>
+			<line class="h" y1="10.96" x2="10.96" transform="translate(618.706 332.077)"/>
+			<g class="i" transform="translate(621.651 335.002)">
+				<circle class="o" cx="2.555" cy="2.555" r="2.555"/>
+				<circle class="p" cx="2.555" cy="2.555" r="3.555"/>
+			</g>
+		</g>
+		<rect class="j" width="34.5" height="7.75" transform="translate(531.747 329.807)"/>
+		<rect class="j" width="34.5" height="7.75" transform="translate(654.043 329.807)"/>
+		<g class="rotate_tire">
+			<g class="g" transform="translate(560.094 325.2)">
+				<circle class="o" cx="12.357" cy="12.357" r="12.357"/>
+				<circle class="p" cx="12.357" cy="12.357" r="10.117"/>
+			</g>
+			<line class="h" y2="15.5" transform="translate(572.451 329.807)"/>
+			<line class="h" x2="10.96" y2="10.96" transform="translate(566.97 332.077)"/>
+			<line class="h" x2="15.5" transform="translate(564.701 337.557)"/>
+			<line class="h" y1="10.96" x2="10.96" transform="translate(566.97 332.077)"/>
+			<g class="i" transform="translate(569.916 335.002)">
+				<circle class="o" cx="2.555" cy="2.555" r="2.555"/>
+				<circle class="p" cx="2.555" cy="2.555" r="3.555"/>
+			</g>
+		</g>
+		<path class="k" d="M0,0H4.375a3,3,0,0,1,3,3V8.539a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(534.497 319.19)"/>
+		<rect class="l" width="73" height="4.833" transform="translate(603.997 299.961)"/>
+		<rect class="l" width="73" height="4.833" transform="translate(603.997 317.02)"/>
+		<rect class="l" width="3" height="16.812" transform="translate(610.247 302.378)"/>
+		<rect class="l" width="3" height="16.812" transform="translate(623.997 302.378)"/>
+		<rect class="l" width="3" height="16.812" transform="translate(637.747 302.378)"/>
+		<rect class="l" width="3" height="16.812" transform="translate(651.497 302.378)"/>
+		<rect class="l" width="3" height="16.812" transform="translate(665.247 302.378)"/>
+		<path class="m" d="M551.031,312.019h16.783l5.657-5.657V289.579Z"/>
+		<path class="n" d="M573.471,312.019v-5.657l-5.657,5.657Z"/>
+		<path class="n" d="M573.471,285.519h-21.9l-14.9,26.5h14.356l22.44-22.44Z"/>
+		<path class="m" d="M580.174,285.519v14.14l14.14-14.14Z"/>
+		<path class="n" d="M580.174,299.659v12.36h17.8v-26.5h-3.657Z"/>
+		<g class="rotate_tire">
+			<g class="g" transform="translate(646.579 325.2)">
+				<circle class="o" cx="12.357" cy="12.357" r="12.357"/>
+				<circle class="p" cx="12.357" cy="12.357" r="10.117"/>
+			</g>
+			<line class="h" y2="15.5" transform="translate(658.936 329.807)"/>
+			<line class="h" x2="10.96" y2="10.96" transform="translate(653.456 332.077)"/>
+			<line class="h" x2="15.5" transform="translate(651.186 337.557)"/>
+			<line class="h" y1="10.96" x2="10.96" transform="translate(653.456 332.077)"/>
+			<g class="i" transform="translate(656.401 335.002)">
+				<circle class="o" cx="2.555" cy="2.555" r="2.555"/>
+				<circle class="p" cx="2.555" cy="2.555" r="3.555"/>
+			</g>
+		</g>
+	</g>
+</svg>

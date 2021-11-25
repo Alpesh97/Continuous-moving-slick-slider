@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moving Cars</title>
+    <link rel="stylesheet" type="text/css" href="css/slick.css">
+    <link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+    <style>
+		section{
+			padding: 150px 0;
+			margin: 0 0 150px;
+			height: 50vh;
+			background-color: #282828;
+		}
+		.running-vehicles-block{
+	        overflow: hidden;
+		}
+		.running-vehicles-block .img-wrapper .img-inner-wrapper{
+			display: flex;
+		    align-items: flex-end;
+		    justify-content: center;
+		    min-height: 150px;
+		}
+		.running-vehicles-block .img-wrapper{
+			padding: 0 55px;
+		}
+    </style>
+</head>
+<body>
+
+	<section>
+		&nbsp;	
+	</section>
+		dragable anf focus pr stop nu check karvu
+	<div class="running-vehicles-block">
+		<div class="img-wrapper">
+			<div class="img-inner-wrapper">
+				<img src="images/school_van.svg" alt="shcool_van">
+			</div>
+		</div>
+		<div class="img-wrapper">
+			<div class="img-inner-wrapper">
+				<img src="images/car_van.svg" alt="car">
+			</div>	
+		</div>
+		<div class="img-wrapper">
+			<div class="img-inner-wrapper">
+				<img src="images/goods_van.svg" alt="goods_van">
+			</div>
+		</div>
+		<div class="img-wrapper">
+			<div class="img-inner-wrapper">
+				<img src="images/food_van.svg" alt="food_van">
+			</div>
+		</div>
+		<div class="img-wrapper">
+			<div class="img-inner-wrapper">
+				<img src="images/fire_van.svg" alt="fire_van">
+			</div>
+		</div>
+	</div>
+	<section>
+		&nbsp;
+	</section>
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/slick.min.js"></script>
+
+	<script>
+		$(function() {
+
+		  $('.running-vehicles-block').slick({
+		    speed: 5000,
+		    autoplay: true,
+		    autoplaySpeed: 0,
+		    centerMode: true,
+		    cssEase: 'linear',
+		    slidesToShow: 1,
+		    slidesToScroll: 1,
+		    variableWidth: true,
+		    infinite: true,
+		    arrows: false,
+		    dots: false,
+		    pauseOnHover:false,
+		    pauseOnFocus:false,
+		  })
+		});
+	</script>
+</body>
+</html>
